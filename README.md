@@ -3,7 +3,7 @@
 > Write short-form video scripts (Reels, Shorts, TikTok) that don't sound AI-generated, calibrated to your actual brand voice.
 
 
-> **Part of [ccai-skills-pack](https://github.com/cory-dot/ccai-skills-pack)**, Creative Core AI's 26-skill library. Install this skill standalone (see below), or grab the full pack in one go.
+> **Part of [ccai-skills-pack](https://github.com/creativecore-ai/ccai-skills-pack)**, Creative Core AI's 26-skill library. Install this skill standalone (see below), or grab the full pack in one go.
 
 **Slash command:** `/ccai-video-script`
 **Status:** v0.1 · works with Claude Code
@@ -50,7 +50,7 @@ No API keys. No transcription. No video downloads. You write, the skill structur
 ## Install
 
 ```bash
-git clone https://github.com/cory-dot/ccai-video-script ~/.claude/skills/ccai-video-script
+git clone https://github.com/creativecore-ai/ccai-video-script ~/.claude/skills/ccai-video-script
 ```
 
 Restart Claude Code or run `/doctor` to confirm.
@@ -117,14 +117,14 @@ Coming in `ccai-video-script-pro` (Apify + auto hook ingestion + on-camera telep
 
 ## Part of the Creative Core AI skills pack
 
-This skill is part of [`ccai-skills-pack`](https://github.com/cory-dot/ccai-skills-pack), the full Creative Core AI skill library (26 skills total). Two ways to install:
+This skill is part of [`ccai-skills-pack`](https://github.com/creativecore-ai/ccai-skills-pack), the full Creative Core AI skill library (26 skills total). Two ways to install:
 
 ```bash
 # Just this skill (ad-hoc)
-git clone https://github.com/cory-dot/ccai-video-script ~/.claude/skills/ccai-video-script
+git clone https://github.com/creativecore-ai/ccai-video-script ~/.claude/skills/ccai-video-script
 
 # Or the entire pack
-git clone https://github.com/cory-dot/ccai-skills-pack ~/ccai-skills-pack && cd ~/ccai-skills-pack && ./install.sh
+git clone https://github.com/creativecore-ai/ccai-skills-pack ~/ccai-skills-pack && cd ~/ccai-skills-pack && ./install.sh
 ```
 
 The full pack is taught in [The AI Operator's Playbook](https://skool.com/creative-core-ai), our free Skool course for non-technical business owners.
